@@ -4,7 +4,7 @@
 -->
 
 <a href="https://github.com/hanamesfin">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:151227,100:0B1020&height=200&section=header&text=HANA%20MESFIN&fontSize=48&fontAlignY=35&fontColor=F8FAFC&desc=design%20systems%20%C2%B7%20ship%20products%20%C2%B7%20build%20agents&descAlignY=55&descSize=16&animation=fadeIn" alt="Hana Mesfin" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:151227,100:0B1020&height=200&section=header&text=HANA%20MESFIN&fontSize=48&fontAlignY=35&fontColor=F8FAFC&desc=design%20systems%20%C2%B7%20AUTHOMATING%20%AGENT20%C2%B7%20build%20agents&descAlignY=55&descSize=16&animation=fadeIn" alt="Hana Mesfin" />
 </a>
 
 <div align="center">
