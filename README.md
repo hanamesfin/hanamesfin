@@ -56,7 +56,7 @@
     <img src="https://cdn.simpleicons.org/x/FFFFFF" height="36" width="36" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/annamesfin">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-> Swap `YOUR_X` / `YOUR_INSTAGRAM` for your real handles.
+> Swap `YOUR_X` for your real X handle.
 
 ---
 
