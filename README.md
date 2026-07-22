@@ -152,21 +152,21 @@
 <div align="center">
 
   <a href="https://github.com/hanamesfin/omnia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=omnia&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="OMNIA" />
+    <img src="https://img.shields.io/badge/OMNIA-AI_agent_platform-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="OMNIA" />
   </a>
   &nbsp;
   <a href="https://github.com/hanamesfin/PromptCraft-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=PromptCraft-&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="PromptCraft" />
+    <img src="https://img.shields.io/badge/PromptCraft-studio_prompts-F59E0B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0B1020" alt="PromptCraft" />
   </a>
 
-  <br />
+  <br /><br />
 
   <a href="https://github.com/hanamesfin/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Portfolio&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-React_%2B_motion-5EEAD4?style=for-the-badge&logo=react&logoColor=black&labelColor=0B1020" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/hanamesfin/Galaxy-Defender-2D-Mobile-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Galaxy-Defender-2D-Mobile-Game&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Galaxy Defender" />
+    <img src="https://img.shields.io/badge/Galaxy_Defender-Unity_2D-F59E0B?style=for-the-badge&logo=unity&logoColor=white&labelColor=0B1020" alt="Galaxy Defender" />
   </a>
 
   <br /><br />
