@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_OMNIA-Explore_agents-111827?style=for-the-badge&labelColor=14B8A6&color=0B1020" alt="Live OMNIA" />
   </a>
   &nbsp;
-  <a href="https://github.com/hanamesfin/omnia">
+  <a href="https://omnia-wine.vercel.app">
     <img src="https://img.shields.io/badge/Repo-hanamesfin%2Fomnia-181717?style=for-the-badge&logo=github&logoColor=white" alt="OMNIA repo" />
   </a>
 
