@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hannah-mesfin-1ab702362">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-> Swap `YOUR_LINKEDIN` / `YOUR_X` / `YOUR_INSTAGRAM` for your real handles.
+> Swap `YOUR_X` / `YOUR_INSTAGRAM` for your real handles.
 
 ---
 
