@@ -61,7 +61,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hannahmesfin123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email" />
+    <img src="https://img.shields.io/badge/hannahmesfin123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email hannahmesfin123@gmail.com" />
   </a>
 </p>
 
