@@ -202,7 +202,7 @@
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20like%20finding%20an%20algorithm%20for%20everything.&author=—" alt="I like finding an algorithm for everything." />
 
 </div>
 
