@@ -151,18 +151,35 @@
 
 <div align="center">
 
-| | |
-| :---: | :--- |
-| <a href="https://github.com/hanamesfin/omnia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=omnia&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="OMNIA" /></a> | <a href="https://github.com/hanamesfin/PromptCraft-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=PromptCraft-&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="PromptCraft" /></a> |
-| <a href="https://github.com/hanamesfin/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Portfolio&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Portfolio" /></a> | <a href="https://github.com/hanamesfin/Galaxy-Defender-2D-Mobile-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Galaxy-Defender-2D-Mobile-Game&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Galaxy Defender" /></a> |
+  <a href="https://github.com/hanamesfin/omnia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=omnia&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="OMNIA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hanamesfin/PromptCraft-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=PromptCraft-&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="PromptCraft" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/hanamesfin/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Portfolio&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hanamesfin/Galaxy-Defender-2D-Mobile-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanamesfin&repo=Galaxy-Defender-2D-Mobile-Game&theme=transparent&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="Galaxy Defender" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/hanamesfin/UI-UX-Designer-Needed-for-Insurance-Website-Redesign-in-Figma">
+    <img src="https://img.shields.io/badge/Figma-Insurance_UI_system-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Insurance Figma" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hanamesfin/youtube-ui-clone">
+    <img src="https://img.shields.io/badge/React-YouTube_UI_clone-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="YouTube UI clone" />
+  </a>
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/hanamesfin/UI-UX-Designer-Needed-for-Insurance-Website-Redesign-in-Figma">
-    <img src="https://img.shields.io/badge/Also—Insurance_Figma_system_%26_YouTube_UI_clone-0B1020?style=for-the-badge&labelColor=F59E0B&color=0B1020" alt="More work" />
-  </a>
-</p>
 
 ---
 
